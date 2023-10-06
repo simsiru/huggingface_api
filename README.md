@@ -1,2 +1,3 @@
-# huggingface_api
-Source code for Huggingface pipeline Flask api
+# Huggingface flask api
+
+Flask API that uses DistilBERT model to perform sentiment analysis.
